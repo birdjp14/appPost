@@ -13,6 +13,8 @@
 		4818CE3D19F6F0F9007C7A9C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4818CE3C19F6F0F9007C7A9C /* Images.xcassets */; };
 		4818CE4019F6F0F9007C7A9C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4818CE3E19F6F0F9007C7A9C /* LaunchScreen.xib */; };
 		4818CE4C19F6F0F9007C7A9C /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4818CE4B19F6F0F9007C7A9C /* PostcardTests.swift */; };
+		4818CE5619F809A4007C7A9C /* eiffel-tower-image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4818CE5519F809A4007C7A9C /* eiffel-tower-image.jpg */; };
+		4818CE5819F80CE6007C7A9C /* 1280px-Lincoln_Memorial.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4818CE5719F80CE6007C7A9C /* 1280px-Lincoln_Memorial.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		4818CE4519F6F0F9007C7A9C /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4818CE4A19F6F0F9007C7A9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4818CE4B19F6F0F9007C7A9C /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		4818CE5519F809A4007C7A9C /* eiffel-tower-image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "eiffel-tower-image.jpg"; sourceTree = "<group>"; };
+		4818CE5719F80CE6007C7A9C /* 1280px-Lincoln_Memorial.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1280px-Lincoln_Memorial.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		4818CE3319F6F0F9007C7A9C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4818CE5519F809A4007C7A9C /* eiffel-tower-image.jpg */,
+				4818CE5719F80CE6007C7A9C /* 1280px-Lincoln_Memorial.jpg */,
 				4818CE3419F6F0F9007C7A9C /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,8 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4818CE5819F80CE6007C7A9C /* 1280px-Lincoln_Memorial.jpg in Resources */,
 				4818CE3B19F6F0F9007C7A9C /* Main.storyboard in Resources */,
 				4818CE4019F6F0F9007C7A9C /* LaunchScreen.xib in Resources */,
+				4818CE5619F809A4007C7A9C /* eiffel-tower-image.jpg in Resources */,
 				4818CE3D19F6F0F9007C7A9C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
